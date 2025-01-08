@@ -1,0 +1,20 @@
+we can read a state from any component with the help of redux
+in react if we create a state then the state is only readable with in that component only
+
+1 
+install react redux
+2 
+create a store.js
+3
+provide that store.js in main.jsx
+4
+create a counter slicer 
+5
+setup counter slicer in store.js
+6
+now we can read and write our counter value by using our function in counter slicer
+
+
+store which hold all our data
+reducer which manupulate all our data 
+action is what tell reducer to manupulate our data it caries the name and not required the data  
